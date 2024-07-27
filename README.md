@@ -18,6 +18,6 @@ Para ejecutar la aplicación completa:
 		streamlit run front_streamlit.py  
 	(** Espera algunos segundos a que corra el servidor:  Application shutdown complete)
 
-
+Link hacia el Modelo [Link](https://colab.research.google.com/drive/1PWvxsO3smAAjl69SnQeEnyBOGGdmKAxu).
 
 
